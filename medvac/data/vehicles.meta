@@ -7,7 +7,7 @@
 	<Item>
       <modelName>qrv</modelName>
       <txdName>qrv</txdName>
-      <handlingId>medvac</handlingId>
+      <handlingId>qrv</handlingId>
       <gameName>qrv</gameName>
       <vehicleMakeName>BRAVADO</vehicleMakeName>
       <expressionDictName>null</expressionDictName>
