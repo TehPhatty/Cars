@@ -3,7 +3,7 @@
 <CHandlingDataMgr>
 <HandlingData>
   	<Item type="CHandlingData">
-      <handlingName>medvac</handlingName>
+      <handlingName>qrv</handlingName>
       <fMass value="5000.000000" />
       <fInitialDragCoeff value="4.000000" />
       <fPercentSubmerged value="75.000000" />
