@@ -134,5 +134,5 @@
       <parent>vehicles_jet_interior</parent>
       <child>medvac</child>
     </Item>
-	  </txdRelationships>
+    </txdRelationships>
 </CVehicleModelInfo__InitDataList>
