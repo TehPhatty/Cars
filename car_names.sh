@@ -1,5 +1,5 @@
 #!/bin/bash
-cd Cars
+#cd Cars
 shopt -s dotglob
 shopt -s nullglob
 array=(*/)
