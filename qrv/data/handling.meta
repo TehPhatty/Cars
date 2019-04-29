@@ -2,7 +2,7 @@
 
 <CHandlingDataMgr>
 <HandlingData>
-  	<Item type="CHandlingData">
+  	<Item type="HandlingData">
       <handlingName>medvac</handlingName>
       <fMass value="5500.000000" />
       <fInitialDragCoeff value="5.000000" />
