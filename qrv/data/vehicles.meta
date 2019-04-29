@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <CVehicleModelInfo__InitDataList>
-	<residentTxd>vehshare</residentTxd>
-	<residentAnims />
-	<InitDatas>
+<residentTxd>vehshare</residentTxd>
+<residentAnims />
+<InitDatas>
 	
-	<Item>
+<Item>
       <modelName>qrv</modelName>
       <txdName>qrv</txdName>
       <handlingId>medvac</handlingId>
