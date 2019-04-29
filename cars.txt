@@ -6,7 +6,6 @@ start CAMARO_SS
 start DESMO
 start E36PRBUNNY
 start FCT
-start FOCUSRS
 start MGT
 start R1CUSTOM
 start TR22
