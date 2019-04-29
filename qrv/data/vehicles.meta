@@ -117,19 +117,19 @@
       <buoyancySphereOffset x="0.000000" y="0.000000" z="0.000000" />
       <buoyancySphereSizeScale value="1.000000" />
       <pOverrideRagdollThreshold type="NULL" />
-	  <firstPersonDrivebyData>
+      <firstPersonDrivebyData>
         <Item>STD_DILETTANTE_FRONT_LEFT</Item>
         <Item>STD_DILETTANTE_FRONT_RIGHT</Item>
         <Item>STD_BALLER_REAR_LEFT</Item>
         <Item>STD_BALLER_REAR_RIGHT</Item>
       </firstPersonDrivebyData>
     </Item>
-	</InitDatas>
-	<txdRelationships>
-  	 <Item> 
-	<parent>vehicles_poltax_interior</parent> 
-	<child>qrv</child> 
-	</Item> 
+      </InitDatas>
+      <txdRelationships>
+      <Item> 
+      <parent>vehicles_poltax_interior</parent> 
+      <child>qrv</child> 
+      </Item> 
     <Item>
       <parent>vehicles_jet_interior</parent>
       <child>medvac</child>
