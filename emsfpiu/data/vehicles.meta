@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <CVehicleModelInfo__InitDataList>
-<residentTxd>vehshare</residentTxd>
-<residentAnims />
-<InitDatas>	
-<Item>
+	<residentTxd>vehshare</residentTxd>
+	<residentAnims />
+	<InitDatas>
+	
+	<Item>
       <modelName>qrv</modelName>
       <txdName>qrv</txdName>
       <handlingId>medvac</handlingId>
@@ -26,27 +27,27 @@
       <povCameraName>DEFAULT_POV_CAMERA</povCameraName>
       <FirstPersonDriveByIKOffset x="0.000000" y="-0.055000" z="-0.035000" />
       <FirstPersonDriveByUnarmedIKOffset x="0.000000" y="0.000000" z="0.000000" />
-      <FirstPersonProjectileDriveByIKOffset x="0.035000" y="-0.080000" z="0.000000" />
-      <FirstPersonProjectileDriveByPassengerIKOffset x="-0.120000" y="-0.120000" z="0.000000" />
-      <FirstPersonProjectileDriveByRearLeftIKOffset x="0.000000" y="0.020000" z="0.000000" />
-      <FirstPersonProjectileDriveByRearRightIKOffset x="0.000000" y="0.020000" z="0.000000" />
-      <FirstPersonDriveByLeftPassengerIKOffset x="0.000000" y="0.000000" z="0.000000" />
-      <FirstPersonDriveByRightPassengerIKOffset x="0.000000" y="-0.055000" z="-0.035000" />
-      <FirstPersonDriveByRightRearPassengerIKOffset x="0.000000" y="0.000000" z="0.000000" />
-      <FirstPersonDriveByLeftPassengerUnarmedIKOffset x="0.000000" y="0.000000" z="0.000000" />
-      <FirstPersonDriveByRightPassengerUnarmedIKOffset x="0.000000" y="0.000000" z="0.000000" />
-      <FirstPersonMobilePhoneOffset x="0.143000" y="0.236000" z="0.545000" />
+	  <FirstPersonProjectileDriveByIKOffset x="0.035000" y="-0.080000" z="0.000000" />
+	  <FirstPersonProjectileDriveByPassengerIKOffset x="-0.120000" y="-0.120000" z="0.000000" />
+	  <FirstPersonProjectileDriveByRearLeftIKOffset x="0.000000" y="0.020000" z="0.000000" />
+	  <FirstPersonProjectileDriveByRearRightIKOffset x="0.000000" y="0.020000" z="0.000000" />
+	  <FirstPersonDriveByLeftPassengerIKOffset x="0.000000" y="0.000000" z="0.000000" />
+	  <FirstPersonDriveByRightPassengerIKOffset x="0.000000" y="-0.055000" z="-0.035000" />
+	  <FirstPersonDriveByRightRearPassengerIKOffset x="0.000000" y="0.000000" z="0.000000" />
+	  <FirstPersonDriveByLeftPassengerUnarmedIKOffset x="0.000000" y="0.000000" z="0.000000" />
+	  <FirstPersonDriveByRightPassengerUnarmedIKOffset x="0.000000" y="0.000000" z="0.000000" />
+	  <FirstPersonMobilePhoneOffset x="0.143000" y="0.236000" z="0.545000" />
       <FirstPersonPassengerMobilePhoneOffset x="0.136000" y="0.223000" z="0.425000" />
-      <FirstPersonMobilePhoneSeatIKOffset>
-      <Item>
-      <Offset x="0.136000" y="0.116000" z="0.455000" />
-      <SeatIndex value="2" />
-      </Item>
-      <Item>
-      <Offset x="0.136000" y="0.116000" z="0.455000" />
-      <SeatIndex value="3" />
-      </Item>
-      </FirstPersonMobilePhoneSeatIKOffset> 
+	  <FirstPersonMobilePhoneSeatIKOffset>
+		<Item>
+			<Offset x="0.136000" y="0.116000" z="0.455000" />
+			<SeatIndex value="2" />
+		</Item>
+		<Item>
+			<Offset x="0.136000" y="0.116000" z="0.455000" />
+			<SeatIndex value="3" />
+		</Item>
+	  </FirstPersonMobilePhoneSeatIKOffset> 
       <PovCameraOffset x="0.000000" y="-0.200000" z="0.680000" />
       <PovCameraVerticalAdjustmentForRollCage value="0.000000" />
       <PovPassengerCameraOffset x="0.000000" y="0.000000" z="0.000000" />
@@ -94,7 +95,7 @@
       <flags>FLAG_RICH_CAR FLAG_IS_OFFROAD_VEHICLE FLAG_IS_BULKY FLAG_RECESSED_HEADLIGHT_CORONAS FLAG_HAS_INTERIOR_EXTRAS FLAG_EMERGENCY_SERVICE FLAG_LAW_ENFORCEMENT FLAG_HAS_LIVERY</flags>
       <type>VEHICLE_TYPE_CAR</type>
       <plateType>VPT_BACK_PLATES</plateType>
-        <dashboardType>VDT_GENTAXI</dashboardType>
+	  <dashboardType>VDT_GENTAXI</dashboardType>
       <vehicleClass>VC_EMERGENCY</vehicleClass>
       <wheelType>VWT_SUV</wheelType>
       <trailers />
@@ -117,22 +118,22 @@
       <buoyancySphereOffset x="0.000000" y="0.000000" z="0.000000" />
       <buoyancySphereSizeScale value="1.000000" />
       <pOverrideRagdollThreshold type="NULL" />
-      <firstPersonDrivebyData>
+	  <firstPersonDrivebyData>
         <Item>STD_DILETTANTE_FRONT_LEFT</Item>
         <Item>STD_DILETTANTE_FRONT_RIGHT</Item>
         <Item>STD_BALLER_REAR_LEFT</Item>
         <Item>STD_BALLER_REAR_RIGHT</Item>
       </firstPersonDrivebyData>
     </Item>
-      </InitDatas>
-      <txdRelationships>
-      <Item> 
-      <parent>vehicles_poltax_interior</parent> 
-      <child>qrv</child> 
-      </Item> 
+	</InitDatas>
+	<txdRelationships>
+  	 <Item> 
+	<parent>vehicles_poltax_interior</parent> 
+	<child>qrv</child> 
+	</Item> 
     <Item>
       <parent>vehicles_jet_interior</parent>
       <child>medvac</child>
     </Item>
-    </txdRelationships>
+	  </txdRelationships>
 </CVehicleModelInfo__InitDataList>
